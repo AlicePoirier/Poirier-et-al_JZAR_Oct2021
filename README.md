@@ -1,6 +1,7 @@
 # Poirier-et-al_JZAR_Oct2021
 Dataset and R code for publication in Journal of Zoo and Aquarium Research
-Submission October 2021
+
+Submission: October 2021
 
 Title: 
 Olfactory communication in tamarins: a comparative analysis of scents from wild and captive populations
